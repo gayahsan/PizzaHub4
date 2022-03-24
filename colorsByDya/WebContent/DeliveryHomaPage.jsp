@@ -53,7 +53,7 @@
 
 	
 <div class="myDiv1">
-	<p><b><center>GET HOME DELIVERY OPTION</center></b></p>
+	<h1><b><center>PLEASE SELECT YOUR DELIVERY OPTION</center></b></h1>
 	
 
 	
@@ -77,21 +77,23 @@
 
 
 
-
+ <div class="container h-100"> 
 
 <!-- cards -->
 </br></br>
 <div class="card-deck">
   <div class="card">
-    <img src="..." class="card-img-top" alt="...">
+  <div class="img">
+   
+     <img src="photos/SHOP.jpg" alt="..." ></div>
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      <h5 class="card-title">Takeaway Option</h5>
+      <p class="card-text">Offer pickup as an option for orders arranged through our app. Customers will avoid delivery charges, and your business will incur a lower commission rate without network fees.</p>
     </div>
     <div class="card-footer">
       <small class="text-muted">Last updated 3 mins ago</small>
       
-	<br><center><button onclick="myFunction2()">CONTACT THE ARTIST</button></center><br>
+	<br><center><button onclick="myFunction2()">CONTACT US</button></center><br>
 		
 	<script>
 		function myFunction2() {
@@ -100,18 +102,21 @@
 		}
 	</script>
     </div>
-  </div>
+  </div> 
   
-  
+ 
   <div class="card">
-    <img src="..." class="card-img-top" alt="...">
+  <div class="img">
+    
+    <img src="photos/DELI.jpg" alt="..." ></div>
+    
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+      <h5 class="card-title">Home Delivery Option</h5>
+      <p class="card-text">Access a network of over 5 million delivery people worldwide with delivery times averaging less than 30 minutes. All you have to do is prepare customer orders.</p>
     </div>
     <div class="card-footer">
       <small class="text-muted">Last updated 3 mins ago</small>
-      <br><center><button onclick="location.href = 'DeliveryHomeIns'">HOME DELIVERY</button></center><br>
+      <br><center><button onclick="location.href = 'DeliveryHomeIns'">GET HOME DELIVERY</button></center><br>
 		
 	<script>
 		function myFunction1() {
@@ -124,6 +129,7 @@
 
 </div></br></br>
 
+  </div> 
 
 
 

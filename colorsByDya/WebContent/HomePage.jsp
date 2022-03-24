@@ -60,21 +60,21 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="photos/food-3309418_1920.jpg" class="d-block w-5" alt="1 Hi">
+      <img src="photos/big-2530142_1920.jpg" class="img-fluid" alt="1 Hi">
       <div class="carousel-caption d-none d-md-block">
         <h5>First slide label</h5>
         <p>Some representative placeholder content for the first slide.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="photos/food-3309418_1920.jpg" class="d-block w-5" alt="2 hi">
+      <img src="photos/food-3309418_1920.jpg" class="img-fluid" alt="2 hi">
       <div class="carousel-caption d-none d-md-block">
         <h5>Second slide label</h5>
         <p>Some representative placeholder content for the second slide.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="photos/food-3309418_1920.jpg" class="d-block w-5" alt="3 hi">
+      <img src="photos/plate-2802332_1920.jpg" class="img-fluid" alt="3 hi">
       <div class="carousel-caption d-none d-md-block">
         <h5>Third slide label</h5>
         <p>Some representative placeholder content for the third slide.</p>
@@ -92,9 +92,19 @@
 </div>
 
 
+</br></br>
 
 
 
+<div class="card container h-100" style="width: 30rem;">
+  <div class="card-body">
+    <h5 class="card-title">Hello </h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+  <button type="button" class="btn btn-success btn-lg btn-block">Place Order</button>
+  
+    
+  </div>
+</div>
 
 
 
@@ -151,6 +161,7 @@
   <div class="container p-4">
     <!-- Section: Social media -->
     <section class="mb-4">
+    
       <!-- Facebook -->
       <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
         ><i class="fab fa-facebook-f"></i
@@ -223,9 +234,7 @@
     <!-- Section: Text -->
     <section class="mb-4">
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt distinctio earum
-        repellat quaerat voluptatibus placeat nam, commodi optio pariatur est quia magnam
-        eum harum corrupti dicta, aliquam sequi voluptate quas.
+       Since its inception in 1993, Pizza Hub has fast become a household name across Sri Lanka. With its first restaurant at Union Place, Colombo 2, Pizza Hub became the first international restaurant chain to begin operations in Sri Lanka.
       </p>
     </section>
     <!-- Section: Text -->
@@ -236,20 +245,20 @@
       <div class="row">
         <!--Grid column-->
         <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
-          <h5 class="text-uppercase">Links</h5>
+          <h5 class="text-uppercase">Order Now</h5>
 
           <ul class="list-unstyled mb-0">
             <li>
-              <a href="#!" class="text-white">Link 1</a>
+              <a href="#!" class="text-white">PROMOS</a>
             </li>
             <li>
-              <a href="#!" class="text-white">Link 2</a>
+              <a href="#!" class="text-white">PIZZAS</a>
             </li>
             <li>
-              <a href="#!" class="text-white">Link 3</a>
+              <a href="#!" class="text-white">PASTAS</a>
             </li>
             <li>
-              <a href="#!" class="text-white">Link 4</a>
+              <a href="#!" class="text-white">APPETIZERS</a>
             </li>
           </ul>
         </div>
@@ -257,20 +266,20 @@
 
         <!--Grid column-->
         <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
-          <h5 class="text-uppercase">Links</h5>
+          <h5 class="text-uppercase">About</h5>
 
           <ul class="list-unstyled mb-0">
             <li>
-              <a href="#!" class="text-white">Link 1</a>
+              <a href="#!" class="text-white">CAREERS</a>
             </li>
             <li>
-              <a href="#!" class="text-white">Link 2</a>
+              <a href="#!" class="text-white">FEEDBACK</a>
             </li>
             <li>
-              <a href="#!" class="text-white">Link 3</a>
+              <a href="#!" class="text-white">HOTLINE</a>
             </li>
             <li>
-              <a href="#!" class="text-white">Link 4</a>
+              <a href="#!" class="text-white">BEVERAGES</a>
             </li>
           </ul>
         </div>
@@ -278,20 +287,20 @@
 
         <!--Grid column-->
         <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
-          <h5 class="text-uppercase">Links</h5>
+          <h5 class="text-uppercase">Policy</h5>
 
           <ul class="list-unstyled mb-0">
             <li>
-              <a href="#!" class="text-white">Link 1</a>
+              <a href="#!" class="text-white">DESSERTS</a>
             </li>
             <li>
-              <a href="#!" class="text-white">Link 2</a>
+              <a href="#!" class="text-white">TERMS & CONDITIONS</a>
             </li>
             <li>
-              <a href="#!" class="text-white">Link 3</a>
+              <a href="#!" class="text-white"> Social Media</a>
             </li>
             <li>
-              <a href="#!" class="text-white">Link 4</a>
+              <a href="#!" class="text-white">items </a>
             </li>
           </ul>
         </div>
@@ -299,20 +308,20 @@
 
         <!--Grid column-->
         <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
-          <h5 class="text-uppercase">Links</h5>
+          <h5 class="text-uppercase">My Pizza Hub</h5>
 
           <ul class="list-unstyled mb-0">
             <li>
-              <a href="#!" class="text-white">Link 1</a>
+              <a href="#!" class="text-white">SIGN IN / REGISTER</a>
             </li>
             <li>
-              <a href="#!" class="text-white">Link 2</a>
+              <a href="#!" class="text-white">Find Us</a>
             </li>
             <li>
-              <a href="#!" class="text-white">Link 3</a>
+              <a href="#!" class="text-white">logos</a>
             </li>
             <li>
-              <a href="#!" class="text-white">Link 4</a>
+              <a href="#!" class="text-white">Chicken</a>
             </li>
           </ul>
         </div>
@@ -326,8 +335,8 @@
 
   <!-- Copyright -->
   <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
-    © 2020 Copyright:
-    <a class="text-white" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+    ® 2022 PizzaHuB, Inc. All rights reserved.
+    <a class="text-white" href="https://mdbootstrap.com/"></a>
   </div>
   <!-- Copyright -->
 </footer>
